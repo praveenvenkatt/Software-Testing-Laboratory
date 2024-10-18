@@ -1,14 +1,12 @@
 # Ex.No: 2   Matrix Multiplication 
 
-### DATE:   24-09-2024                                                                         
+### DATE:                                                                            
 ### REGISTER NUMBER : 212222040095
 
 ### AIM: 
 Write a python program for matrix multiplication and inspect for failures.
  
 ### Algorithm:
-
-Algorithm:
 1. Start the program.
 2. Create empty list formatrix1, matrix2 and result.
 3. Get the rows and columns count from the user.
@@ -77,65 +75,8 @@ else:
 
 
 ```
-
-
-
-
-
-
-
-
-
-
-
 ### Output:
-
-```
-Enter the size of a: 2 3
-Enter the size of b: 2 3
-Matrix multiplication is not possible.
-Reason to fail: to do multiplication of matrices the number of columns in matrix ―a[] should be
-equal to the number of rows in matrix in b[] 
-
-
-Enter the size of a: p q
-Enter the size of b: q s
-Matrix multiplication is not possible.
-Reason to fail: to do multiplication of matrices the number of columns in matrix ―a[]
-should be equal to number of rows in matrix ―bl, and rows & columns should be integer
-values. 
-
-
-
-Enter the size of a: 1.5 2
-Enter the size of b: 2 3
-Matrix multiplication is not possible.
-Reason to fail: to do multiplication of matrices the number of columns in matrix ―al should be
-equal to number of rows in matrix ―bl, and rows & columns should be integer values. 
-
-
-Enter the size of a: 350
-480 Enter the size of b:
-480 620
-Matrix multiplication is not possible.
-Reason to fail: size of buffer will be not be sufficient to handle this multiplication. 
-
-
-
-Enter the size of a: -
-1 -2 Enter the size of
-b: -2 3
-Matrix multiplication is not possible.
-Reason to fail: to do multiplication of matrices the number of columns in matrix ―al should
-be equal to number of rows in matrix ―bl, and rows & columns should be positive integer values. 
-
-
-
-
-```
-
-
-
+![373515420-29b07717-cef1-4715-89bd-b0507bebc78b](https://github.com/user-attachments/assets/21c800d6-a6a0-47c2-846f-bc309170d371)
 
 
 
