@@ -28,7 +28,6 @@ Write a python program to check the number is prime or not and inspect for failu
 
 
 
-
 ### Output:
 
 
