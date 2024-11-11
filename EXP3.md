@@ -44,8 +44,7 @@ else:
 ```
 
 ### Output:
-
-
+![371407035-cd1ca00d-4c70-4ca1-80a9-387dea750025](https://github.com/user-attachments/assets/0ea9007b-af97-401d-8a83-037586a2d936)
 
 
 ### Result:
