@@ -38,7 +38,8 @@ else:
 ```
 ### Output:
 
-![Screenshot (87)](https://github.com/user-attachments/assets/4d40e2fd-9d07-4020-a52a-2bdafc502ee5)
+![373508087-4d40e2fd-9d07-4020-a52a-2bdafc502ee5](https://github.com/user-attachments/assets/d2608f35-0d25-41be-beff-b0ad26940ba5)
+
 
 ### Result:
 Thus, a program to check palindrome has been written and test cases have been written and verified successfully.
