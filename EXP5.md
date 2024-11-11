@@ -48,7 +48,8 @@ except:
 ```
 
 ### Output:
-![Screenshot (86)](https://github.com/user-attachments/assets/19c8dddd-fb5a-47f2-9d96-75fe922449cb)
+![371413581-19c8dddd-fb5a-47f2-9d96-75fe922449cb](https://github.com/user-attachments/assets/8c3ecb79-d303-4299-8ddc-8a1faca13bc8)
+
 
 
 ### Result:
