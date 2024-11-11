@@ -1,7 +1,7 @@
 # Ex.No: 9  Test cases for Banking Application
 
 ### DATE: 08.10.2024                                                                           
-### REGISTER NUMBER :212222040128
+### REGISTER NUMBER :212222040121
 ### AIM: 
 For Banking Applicationsystem study its system specifications and generate test cases.
 ### The characteristics of a Banking application are as follows: 
