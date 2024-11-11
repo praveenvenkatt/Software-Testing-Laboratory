@@ -1,57 +1,44 @@
-# Ex.No: 7  ATM Applicationn
-### DATE:                                                                            
-### REGISTER NUMBER : 
-### AIM: 
-For ATM system study its system specifications and report various bugs
-### Purpose:
+# Ex.No: 07  Sorting
 
+### DATE: 24-09-2024                                                                   
+### REGISTER NUMBER : 212222040128
 
-### Scope:
+### AIM:  
+Write a python program for sorting and inspect for failures
 
+### Algorithm:
+1. Start the program.
+2. Get the number of elements from user
+3. Get the elements to be sorted
+4. Traverse the array and sort the elements one by one
+5. Print the sorted array
+6. Stop the program. 
+### Program:
+```
+n=int(input("Enter the number of elements:"))
+arr=[]
+try:
+ for i in range(n):
+ a=float(input("Enter the element:"))
+ arr.append(a)
+ for i in range(n):
+ for j in range(n):
+ if(arr[i]<arr[j):
+ temp = arr[i]
+ arr[i] = arr[j]
+ arr[j] = temp
+ print(“The array after sorting: ”)
+ for i in range(n):
+ print(arr[i],end=’ ’)
+except ValueError:
+ print(“Enter a valid number”)
+```
+### Output:
 
-### Intended Audience:
-
-
-
-### Product Perspective:
-
-
-
-
-### Product Functions:
-
-
-
-### Operative Environments:
-
-
-
-### Design/implementation constraints: 
-
-
-
-### Assumptions and Dependencies: 
-
-
-
-### Software interfaces 
-
-
-
-### Safety requirements: 
-
-
-
-### Security requirements: 
-
-
-
-### Possible Bugs:
-
-
+![image](https://github.com/user-attachments/assets/3801cad7-9307-4307-8f87-5cf541118013)
 
 
 
 ### Result:
-Thus, the ATM system specifications and reporting the various bugs is implemented and output was verified successfully
-
+Thus, a program to check sorting has been written and test cases have been written and verified
+successfully.
