@@ -40,10 +40,7 @@ else:
 
 ### Output:
 
-
-
-![Screenshot (85)](https://github.com/user-attachments/assets/1272df3c-9f25-4697-a334-05ee00764983)
-
+![371411529-1272df3c-9f25-4697-a334-05ee00764983](https://github.com/user-attachments/assets/4255fbfd-66f4-437c-a6a6-c6a942e10d54)
 
 ### Result:
 Thus, the python program to check the number is Armstrong number or not implemented and the output is verified successfully.
