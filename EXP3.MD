@@ -46,8 +46,6 @@ else:
 ### Output:
 
 
-![Screenshot (84)](https://github.com/user-attachments/assets/cd1ca00d-4c70-4ca1-80a9-387dea750025)
-
 
 
 ### Result:
